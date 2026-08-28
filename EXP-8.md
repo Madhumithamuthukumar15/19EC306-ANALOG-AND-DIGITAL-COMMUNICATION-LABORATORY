@@ -87,6 +87,10 @@ Ensemble 5
 0.4
 
 # OUTPUT:
+<img width="475" height="662" alt="image" src="https://github.com/user-attachments/assets/17e7ada3-5b00-4577-8f4b-78f57255d1d2" />
+<img width="441" height="573" alt="image" src="https://github.com/user-attachments/assets/c5bea64a-50b4-4158-b21d-98c576f718dc" />
+
+
 
 
 # RESULT:
