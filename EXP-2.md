@@ -20,19 +20,18 @@ Connect the output of FG to the modulation input with the proper frequency. Swit
 Connect the oscilloscope to the output of the modulator RN/RE.
 
 # BLOCK DIAGRAM:
-<img width="699" height="462" alt="image" src="https://github.com/user-attachments/assets/45f0f5e0-b22c-4b8e-8ad6-db2a9e745f5d" />
-
+<img width="699" height="462" alt="image" src="https://github.com/user-attachments/assets/8e339b68-9342-42cb-8899-74984aea5027" />
 
 # MODEL GRAPH:
-<img width="333" height="571" alt="image" src="https://github.com/user-attachments/assets/9489bee5-698b-4860-bdf0-036106a3677d" />
-
+<img width="333" height="571" alt="image" src="https://github.com/user-attachments/assets/55e71b4a-206f-4db6-9e66-9e1366335449" />
 
 # OUTPUT GRAPH: 
-<img width="1214" height="1599" alt="image" src="https://github.com/user-attachments/assets/275af777-2b32-467c-bd48-d147bfe3529b" />
+<img width="1214" height="1599" alt="image" src="https://github.com/user-attachments/assets/db9ce938-66df-470e-b0bb-7a90c18ac2cb" />
 
 
 # TABULATION:
-<img width="1600" height="1150" alt="image" src="https://github.com/user-attachments/assets/6a8ba87c-82be-48ba-a8dc-c824d9dc8da6" />
+<img width="1280" height="963" alt="WhatsApp Image 2026-09-09 at 10 26 06 PM" src="https://github.com/user-attachments/assets/5fbd356d-be04-4f5f-a3ea-6b883decefe6" />
+
 
 # RESULT:
 Thus the frequency modulation and demodulation is successfully done and the output is experimentally verified.
